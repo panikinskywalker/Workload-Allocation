@@ -255,21 +255,10 @@ This is a research project for academic purposes. If you find any issues or have
 
 ---
 
-## 📄 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👨‍🎓 **Author**
 
-**Ryu** - MSc Data Science Student
+**panikinskywalker** - MSc Data Science Student
 
-**Research Topic**: Faculty Workload Allocation System using Metaheuristic Algorithms
-
-**Institution**: [Your University Name]
-
-**Supervisor**: [Your Supervisor Name]
 
 ---
 
@@ -281,16 +270,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 **Contact**
-
-For questions about this research project:
-
-- **Email**: [your.email@university.edu]
-- **GitHub**: [@yourusername]
-- **Research Profile**: [Your Research Profile Link]
-
----
-
 ## 📊 **Project Status**
 
 - **✅ Dataset Generation**: Complete
@@ -299,7 +278,6 @@ For questions about this research project:
 - **✅ Statistical Validation**: Complete
 - **✅ Visualization Generation**: Complete
 - **✅ Documentation**: Complete
-- **🚀 Status**: **RESEARCH COMPLETE - READY FOR ACADEMIC PAPER**
 
 ---
 
