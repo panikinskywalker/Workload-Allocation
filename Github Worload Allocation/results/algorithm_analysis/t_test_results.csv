@@ -1,0 +1,4 @@
+Comparison,T-Statistic,P-Value,Significant (α=0.05),Interpretation
+Hill Climbing vs Genetic Algorithm,0.0,1.0,No,No significant difference
+Hill Climbing vs Simulated Annealing,1.953724181404164e-15,0.9999999999999984,No,No significant difference
+Genetic Algorithm vs Simulated Annealing,1.950465202259436e-15,0.9999999999999984,No,No significant difference

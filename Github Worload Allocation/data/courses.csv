@@ -1,0 +1,81 @@
+id,name,code,department,lecture_hours,lab_hours,num_students,required_expertise,difficulty_level,min_professors,max_professors,assessment_hours,prep_factor,can_be_shared,semester
+C001,Introduction to Programming,CS101,COMP,3,2,120,Computer Science,1,1,2,30,1.5,True,Both
+C002,Data Structures,CS102,COMP,3,2,100,Data Structures,2,1,2,25,1.8,True,Both
+C003,Algorithms,CS201,COMP,3,1,80,Algorithms,2,1,2,20,2.0,True,Both
+C004,Computer Organization,CS202,COMP,3,2,90,Computer Engineering,2,1,2,25,1.7,True,Both
+C005,Operating Systems,CS301,COMP,3,2,70,Operating Systems,3,1,2,20,2.2,True,Both
+C006,Database Systems,CS302,COMP,3,2,85,Database Systems,3,1,2,25,1.9,True,Both
+C007,Software Engineering,CS401,COMP,3,2,60,Software Engineering,4,1,3,30,2.5,True,Both
+C008,Computer Networks,CS402,COMP,3,1,65,Computer Networks,4,1,2,20,2.1,True,Both
+C009,Artificial Intelligence,CS501,COMP,3,1,50,Artificial Intelligence,5,1,2,20,2.8,True,Both
+C010,Machine Learning,CS502,COMP,3,1,55,Machine Learning,5,1,2,25,2.6,True,Both
+C011,Advanced Algorithms,CS601,COMP,3,0,40,Algorithms,5,1,2,20,3.0,False,Both
+C012,Computer Graphics,CS602,COMP,3,1,45,Computer Graphics,5,1,2,20,2.4,True,Both
+C013,Research Methods,CS701,COMP,2,1,30,Computer Science,5,1,2,15,2.5,False,Both
+C014,Thesis Project,CS702,COMP,1,0,25,Computer Science,5,1,1,40,3.5,False,Both
+C015,Advanced Topics,CS801,COMP,3,0,20,Computer Science,5,1,2,20,3.2,False,Both
+C016,Seminar,CS802,COMP,2,0,15,Computer Science,5,1,2,15,2.8,False,Both
+C017,Independent Study,CS803,COMP,1,0,10,Computer Science,5,1,1,30,3.0,False,Both
+C018,Special Topics,CS804,COMP,3,1,35,Computer Science,4,1,2,20,2.3,True,Both
+C019,Capstone Project,CS805,COMP,2,2,45,Software Engineering,4,1,3,35,2.7,True,Both
+C020,Internship,CS806,COMP,0,8,60,Computer Science,4,1,2,10,1.5,True,Both
+C021,Calculus I,MATH101,MATH,4,1,200,Calculus,1,1,3,40,1.8,True,Both
+C022,Calculus II,MATH102,MATH,4,1,180,Calculus,1,1,3,35,1.9,True,Both
+C023,Linear Algebra,MATH201,MATH,3,1,150,Linear Algebra,2,1,2,25,2.0,True,Both
+C024,Differential Equations,MATH202,MATH,3,1,120,Differential Equations,2,1,2,30,2.2,True,Both
+C025,Advanced Calculus,MATH301,MATH,3,0,80,Calculus,3,1,2,25,2.5,True,Both
+C026,Abstract Algebra,MATH302,MATH,3,0,60,Pure Mathematics,3,1,2,20,2.8,False,Both
+C027,Real Analysis,MATH401,MATH,3,0,50,Pure Mathematics,4,1,2,25,3.0,False,Both
+C028,Complex Analysis,MATH402,MATH,3,0,45,Pure Mathematics,4,1,2,20,2.9,False,Both
+C029,Numerical Analysis,MATH501,MATH,3,1,40,Numerical Analysis,5,1,2,25,2.7,True,Both
+C030,Mathematical Modeling,MATH502,MATH,3,1,35,Mathematical Modeling,5,1,2,30,2.8,True,Both
+C031,Topology,MATH601,MATH,3,0,30,Pure Mathematics,5,1,2,20,3.2,False,Both
+C032,Differential Geometry,MATH602,MATH,3,0,25,Pure Mathematics,5,1,2,20,3.1,False,Both
+C033,Research Seminar,MATH701,MATH,2,0,20,Mathematics,5,1,2,15,2.8,False,Both
+C034,Thesis,MATH702,MATH,1,0,15,Mathematics,5,1,1,40,3.5,False,Both
+C035,Independent Study,MATH703,MATH,1,0,10,Mathematics,5,1,1,30,3.0,False,Both
+C036,Introduction to Business,BUS101,BUS,3,0,180,Business Administration,1,1,2,25,1.5,True,Both
+C037,Principles of Management,BUS201,BUS,3,0,150,Management,2,1,2,20,1.8,True,Both
+C038,Financial Accounting,BUS202,BUS,3,1,160,Accounting,2,1,2,30,2.0,True,Both
+C039,Marketing Principles,BUS301,BUS,3,0,140,Marketing,3,1,2,25,1.9,True,Both
+C040,Corporate Finance,BUS302,BUS,3,0,120,Finance,3,1,2,30,2.2,True,Both
+C041,Operations Management,BUS401,BUS,3,1,100,Operations Research,4,1,2,25,2.3,True,Both
+C042,Strategic Management,BUS402,BUS,3,0,90,Management,4,1,2,30,2.4,True,Both
+C043,Business Analytics,BUS501,BUS,3,1,70,Data Science,5,1,2,25,2.6,True,Both
+C044,Supply Chain Management,BUS502,BUS,3,0,65,Supply Chain Management,5,1,2,20,2.3,True,Both
+C045,Research Methods,BUS601,BUS,2,1,45,Business Administration,5,1,2,20,2.5,True,Both
+C046,Thesis Project,BUS602,BUS,1,0,35,Business Administration,5,1,1,40,3.2,False,Both
+C047,Capstone,BUS603,BUS,2,1,50,Business Administration,4,1,3,35,2.7,True,Both
+C048,Engineering Mechanics,ME101,MECH,4,2,150,Mechanical Engineering,1,1,2,30,2.0,True,Both
+C049,Thermodynamics,ME201,MECH,3,1,120,Mechanical Engineering,2,1,2,25,2.2,True,Both
+C050,Machine Design,ME301,MECH,3,2,90,Mechanical Engineering,3,1,2,30,2.4,True,Both
+C051,Circuit Analysis,EE101,ELEC,4,2,140,Electrical Engineering,1,1,2,30,2.1,True,Both
+C052,Electronics,EE201,ELEC,3,2,110,Electrical Engineering,2,1,2,25,2.3,True,Both
+C053,Control Systems,EE301,ELEC,3,1,80,Electrical Engineering,3,1,2,25,2.5,True,Both
+C054,Statics,CE101,CIVIL,4,1,130,Civil Engineering,1,1,2,25,2.0,True,Both
+C055,Structural Analysis,CE201,CIVIL,3,1,100,Civil Engineering,2,1,2,25,2.2,True,Both
+C056,Design of Structures,CE301,CIVIL,3,2,85,Civil Engineering,3,1,2,30,2.4,True,Both
+C057,Chemical Principles,CHE101,CHEM,4,2,120,Chemical Engineering,1,1,2,30,2.1,True,Both
+C058,Process Design,CHE201,CHEM,3,2,95,Chemical Engineering,2,1,2,30,2.3,True,Both
+C059,Reaction Engineering,CHE301,CHEM,3,1,75,Chemical Engineering,3,1,2,25,2.5,True,Both
+C060,Biomechanics,BME101,BME,3,1,80,Biomedical Engineering,2,1,2,25,2.2,True,Both
+C061,Biomaterials,BME201,BME,3,1,60,Biomedical Engineering,3,1,2,25,2.4,True,Both
+C062,Medical Devices,BME301,BME,3,2,50,Biomedical Engineering,4,1,2,30,2.6,True,Both
+C063,General Physics I,PHYS101,PHYS,4,2,180,Physics,1,1,3,35,2.0,True,Both
+C064,General Physics II,PHYS102,PHYS,4,2,160,Physics,1,1,3,30,2.1,True,Both
+C065,Modern Physics,PHYS201,PHYS,3,1,120,Physics,2,1,2,25,2.3,True,Both
+C066,General Chemistry,CHEM101,CHEM,4,2,200,Chemistry,1,1,3,35,2.0,True,Both
+C067,Organic Chemistry,CHEM201,CHEM,3,2,150,Chemistry,2,1,2,30,2.2,True,Both
+C068,Introduction to Biology,BIO101,BIO,4,2,190,Biology,1,1,3,30,1.9,True,Both
+C069,Cell Biology,BIO201,BIO,3,2,130,Biology,2,1,2,25,2.1,True,Both
+C070,Introduction to Psychology,PSYCH101,PSYCH,3,0,220,Psychology,1,1,3,25,1.6,True,Both
+C071,Research Methods,PSYCH201,PSYCH,3,1,140,Psychology,2,1,2,30,2.0,True,Both
+C072,Introduction to Sociology,SOC101,SOC,3,0,180,Sociology,1,1,2,20,1.7,True,Both
+C073,Social Theory,SOC201,SOC,3,0,120,Sociology,2,1,2,25,2.1,True,Both
+C074,Composition,ENG101,ENG,3,0,250,English Literature,1,1,3,30,1.8,True,Both
+C075,Literature Survey,ENG201,ENG,3,0,160,English Literature,2,1,2,25,2.0,True,Both
+C076,World History,HIST101,HIST,3,0,170,History,1,1,2,20,1.7,True,Both
+C077,American History,HIST201,HIST,3,0,140,History,2,1,2,25,1.9,True,Both
+C078,Introduction to Philosophy,PHIL101,PHIL,3,0,130,Philosophy,1,1,2,20,1.8,True,Both
+C079,Principles of Economics,ECON101,ECON,3,0,200,Economics,1,1,3,25,1.8,True,Both
+C080,Microeconomics,ECON201,ECON,3,0,150,Economics,2,1,2,25,2.0,True,Both

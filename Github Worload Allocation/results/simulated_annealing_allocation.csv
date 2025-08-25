@@ -1,0 +1,81 @@
+Algorithm,Course_ID,Course_Name,Course_Code,Department,Difficulty_Level,Num_Students,Professor_ID,Professor_Name,Professor_Title,Professor_Department,Share_Percentage,Workload_Hours,Lecture_Hours,Lab_Hours,Assessment_Hours,Prep_Hours,Team_Teaching,Num_Professors
+Simulated Annealing,C001,Introduction to Programming,CS101,COMP,1,120,P099,Deborah Lee,Associate Professor,Communication Studies,100.0,14.5,3.0,2.0,2.0,4.5,False,1
+Simulated Annealing,C002,Data Structures,CS102,COMP,2,100,P094,Nicholas Wilson,Professor,Computer Science & Engineering,100.0,15.666666666666666,3.0,2.0,1.6666666666666667,5.4,False,1
+Simulated Annealing,C003,Algorithms,CS201,COMP,2,80,P076,Karen Watson,Assistant Professor,Computer Science & Engineering,100.0,13.333333333333334,3.0,1.0,1.3333333333333333,6.0,False,1
+Simulated Annealing,C004,Computer Organization,CS202,COMP,2,90,P003,Donna Lewis,Associate Professor,Electrical Engineering,100.0,15.166666666666666,3.0,2.0,1.6666666666666667,5.1,False,1
+Simulated Annealing,C005,Operating Systems,CS301,COMP,3,70,P054,Michelle Lewis,Associate Professor,Communication Studies,100.0,17.333333333333332,3.0,2.0,1.3333333333333333,6.6000000000000005,False,1
+Simulated Annealing,C006,Database Systems,CS302,COMP,3,85,P001,Dorothy Anderson,Assistant Professor,Computer Science & Engineering,100.0,16.166666666666668,3.0,2.0,1.6666666666666667,5.699999999999999,False,1
+Simulated Annealing,C007,Software Engineering,CS401,COMP,4,60,P081,Helen Ortiz,Professor,Computer Science & Engineering,100.0,19.5,3.0,2.0,2.0,7.5,False,1
+Simulated Annealing,C008,Computer Networks,CS402,COMP,4,65,P030,Edward Hernandez,Professor,Computer Science & Engineering,100.0,13.733333333333334,3.0,1.0,1.3333333333333333,6.300000000000001,False,1
+Simulated Annealing,C009,Artificial Intelligence,CS501,COMP,5,50,P097,Nicholas Cox,Lecturer,Biochemistry,100.0,16.53333333333333,3.0,1.0,1.3333333333333333,8.399999999999999,False,1
+Simulated Annealing,C010,Machine Learning,CS502,COMP,5,55,P045,Nancy Wright,Associate Professor,Computer Science & Engineering,100.0,16.066666666666666,3.0,1.0,1.6666666666666667,7.800000000000001,False,1
+Simulated Annealing,C011,Advanced Algorithms,CS601,COMP,5,40,P002,Patricia Scott,Assistant Professor,Geology,100.0,13.333333333333334,3.0,0.0,1.3333333333333333,9.0,False,1
+Simulated Annealing,C012,Computer Graphics,CS602,COMP,5,45,P031,Stephen Nguyen,Assistant Professor,Environmental Science,100.0,14.933333333333334,3.0,1.0,1.3333333333333333,7.199999999999999,False,1
+Simulated Annealing,C013,Research Methods,CS701,COMP,5,30,P037,Sandra Nguyen,Associate Professor,Geology,100.0,11.5,2.0,1.0,1.0,5.0,False,1
+Simulated Annealing,C014,Thesis Project,CS702,COMP,5,25,P096,Joshua Brooks,Professor,Nursing,100.0,7.166666666666666,1.0,0.0,2.6666666666666665,3.5,False,1
+Simulated Annealing,C015,Advanced Topics,CS801,COMP,5,20,P080,Edward Kim,Professor,Nursing,100.0,13.933333333333335,3.0,0.0,1.3333333333333333,9.600000000000001,False,1
+Simulated Annealing,C016,Seminar,CS802,COMP,5,15,P098,Betty Martin,Associate Professor,Biochemistry,100.0,8.6,2.0,0.0,1.0,5.6,False,1
+Simulated Annealing,C017,Independent Study,CS803,COMP,5,10,P100,Sharon Ortiz,Assistant Professor,English Literature,100.0,6.0,1.0,0.0,2.0,3.0,False,1
+Simulated Annealing,C018,Special Topics,CS804,COMP,4,35,P017,Michelle Smith,Associate Professor,Public Health,100.0,14.533333333333333,3.0,1.0,1.3333333333333333,6.8999999999999995,False,1
+Simulated Annealing,C019,Capstone Project,CS805,COMP,4,45,P004,Sarah Wilson,Associate Professor,Chemistry,100.0,17.133333333333333,2.0,2.0,2.3333333333333335,5.4,False,1
+Simulated Annealing,C020,Internship,CS806,COMP,4,60,P072,Mark Moore,Assistant Professor,Geology,100.0,20.666666666666668,0.0,8.0,0.6666666666666666,0.0,False,1
+Simulated Annealing,C021,Calculus I,MATH101,MATH,1,200,P092,Alexander King,Professor,Environmental Science,100.0,16.666666666666668,4.0,1.0,2.6666666666666665,7.2,False,1
+Simulated Annealing,C022,Calculus II,MATH102,MATH,1,180,P051,Charles Reyes,Assistant Professor,Biochemistry,100.0,16.833333333333332,4.0,1.0,2.3333333333333335,7.6,False,1
+Simulated Annealing,C023,Linear Algebra,MATH201,MATH,2,150,P091,James Castillo,Associate Professor,Pharmacy,100.0,13.666666666666666,3.0,1.0,1.6666666666666667,6.0,False,1
+Simulated Annealing,C024,Differential Equations,MATH202,MATH,2,120,P071,Lisa Campbell,Professor,Public Health,100.0,14.8,3.0,1.0,2.0,6.6000000000000005,False,1
+Simulated Annealing,C025,Advanced Calculus,MATH301,MATH,3,80,P034,Laura Harris,Associate Professor,Computer Science & Engineering,100.0,12.166666666666666,3.0,0.0,1.6666666666666667,7.5,False,1
+Simulated Annealing,C026,Abstract Algebra,MATH302,MATH,3,60,P044,Kimberly Clark,Professor,Mathematics & Statistics,100.0,12.733333333333333,3.0,0.0,1.3333333333333333,8.399999999999999,False,1
+Simulated Annealing,C027,Real Analysis,MATH401,MATH,4,50,P039,Henry Gonzalez,Associate Professor,Mathematics & Statistics,100.0,13.666666666666666,3.0,0.0,1.6666666666666667,9.0,False,1
+Simulated Annealing,C028,Complex Analysis,MATH402,MATH,4,45,P005,Raymond Cooper,Assistant Professor,Biology,100.0,13.033333333333333,3.0,0.0,1.3333333333333333,8.7,False,1
+Simulated Annealing,C029,Numerical Analysis,MATH501,MATH,5,40,P012,Betty Alvarez,Lecturer,Public Health,100.0,16.46666666666667,3.0,1.0,1.6666666666666667,8.100000000000001,False,1
+Simulated Annealing,C030,Mathematical Modeling,MATH502,MATH,5,35,P073,Carol Murphy,Assistant Professor,Mathematics & Statistics,100.0,17.2,3.0,1.0,2.0,8.399999999999999,False,1
+Simulated Annealing,C031,Topology,MATH601,MATH,5,30,P006,Barbara Ramos,Assistant Professor,History,100.0,13.933333333333335,3.0,0.0,1.3333333333333333,9.600000000000001,False,1
+Simulated Annealing,C032,Differential Geometry,MATH602,MATH,5,25,P007,Jason Jones,Assistant Professor,Communication Studies,100.0,13.633333333333335,3.0,0.0,1.3333333333333333,9.3,False,1
+Simulated Annealing,C033,Research Seminar,MATH701,MATH,5,20,P044,Kimberly Clark,Professor,Mathematics & Statistics,100.0,8.6,2.0,0.0,1.0,5.6,False,1
+Simulated Annealing,C034,Thesis,MATH702,MATH,5,15,P002,Patricia Scott,Assistant Professor,Geology,100.0,7.166666666666666,1.0,0.0,2.6666666666666665,3.5,False,1
+Simulated Annealing,C035,Independent Study,MATH703,MATH,5,10,P039,Henry Gonzalez,Associate Professor,Mathematics & Statistics,100.0,6.0,1.0,0.0,2.0,3.0,False,1
+Simulated Annealing,C036,Introduction to Business,BUS101,BUS,1,180,P006,Barbara Ramos,Assistant Professor,History,100.0,9.166666666666666,3.0,0.0,1.6666666666666667,4.5,False,1
+Simulated Annealing,C037,Principles of Management,BUS201,BUS,2,150,P049,Nancy Morgan,Lecturer,Geology,100.0,9.733333333333334,3.0,0.0,1.3333333333333333,5.4,False,1
+Simulated Annealing,C038,Financial Accounting,BUS202,BUS,2,160,P100,Sharon Ortiz,Assistant Professor,English Literature,100.0,14.0,3.0,1.0,2.0,6.0,False,1
+Simulated Annealing,C039,Marketing Principles,BUS301,BUS,3,140,P013,Lisa Hughes,Lecturer,Environmental Science,100.0,10.366666666666665,3.0,0.0,1.6666666666666667,5.699999999999999,False,1
+Simulated Annealing,C040,Corporate Finance,BUS302,BUS,3,120,P046,Betty Mendoza,Assistant Professor,Public Health,100.0,11.600000000000001,3.0,0.0,2.0,6.6000000000000005,False,1
+Simulated Annealing,C041,Operations Management,BUS401,BUS,4,100,P064,Ronald Chavez,Associate Professor,Economics,100.0,14.866666666666665,3.0,1.0,1.6666666666666667,6.8999999999999995,False,1
+Simulated Annealing,C042,Strategic Management,BUS402,BUS,4,90,P021,Karen Ramirez,Assistant Professor,Political Science,100.0,12.2,3.0,0.0,2.0,7.199999999999999,False,1
+Simulated Annealing,C043,Business Analytics,BUS501,BUS,5,70,P008,Patricia Lopez,Professor,History,100.0,16.066666666666666,3.0,1.0,1.6666666666666667,7.800000000000001,False,1
+Simulated Annealing,C044,Supply Chain Management,BUS502,BUS,5,65,P023,Susan Lopez,Lecturer,Biochemistry,100.0,11.233333333333333,3.0,0.0,1.3333333333333333,6.8999999999999995,False,1
+Simulated Annealing,C045,Research Methods,BUS601,BUS,5,45,P009,Helen Robinson,Professor,Philosophy,100.0,11.833333333333334,2.0,1.0,1.3333333333333333,5.0,False,1
+Simulated Annealing,C046,Thesis Project,BUS602,BUS,5,35,P009,Helen Robinson,Professor,Philosophy,100.0,6.866666666666667,1.0,0.0,2.6666666666666665,3.2,False,1
+Simulated Annealing,C047,Capstone,BUS603,BUS,4,50,P010,Nicholas Cox,Lecturer,Civil Engineering,100.0,13.433333333333335,2.0,1.0,2.3333333333333335,5.4,False,1
+Simulated Annealing,C048,Engineering Mechanics,ME101,MECH,1,150,P065,Ryan Jackson,Associate Professor,Chemical Engineering,100.0,20.0,4.0,2.0,2.0,8.0,False,1
+Simulated Annealing,C049,Thermodynamics,ME201,MECH,2,120,P067,Donna Bailey,Associate Professor,Biomedical Engineering,100.0,14.466666666666667,3.0,1.0,1.6666666666666667,6.6000000000000005,False,1
+Simulated Annealing,C050,Machine Design,ME301,MECH,3,90,P077,Charles Mendoza,Lecturer,Electrical Engineering,100.0,19.0,3.0,2.0,2.0,7.199999999999999,False,1
+Simulated Annealing,C051,Circuit Analysis,EE101,ELEC,1,140,P059,Lisa Wright,Lecturer,Biomedical Engineering,100.0,20.6,4.0,2.0,2.0,8.4,False,1
+Simulated Annealing,C052,Electronics,EE201,ELEC,2,110,P027,Michelle Garcia,Professor,Chemical Engineering,100.0,18.166666666666668,3.0,2.0,1.6666666666666667,6.8999999999999995,False,1
+Simulated Annealing,C053,Control Systems,EE301,ELEC,3,80,P011,Patricia Bailey,Associate Professor,Mechanical Engineering,100.0,15.666666666666666,3.0,1.0,1.6666666666666667,7.5,False,1
+Simulated Annealing,C054,Statics,CE101,CIVIL,1,130,P084,Karen Castillo,Assistant Professor,Electrical Engineering,100.0,16.666666666666668,4.0,1.0,1.6666666666666667,8.0,False,1
+Simulated Annealing,C055,Structural Analysis,CE201,CIVIL,2,100,P068,Jonathan King,Professor,Civil Engineering,100.0,14.466666666666667,3.0,1.0,1.6666666666666667,6.6000000000000005,False,1
+Simulated Annealing,C056,Design of Structures,CE301,CIVIL,3,85,P050,Sandra Young,Associate Professor,Chemical Engineering,100.0,19.0,3.0,2.0,2.0,7.199999999999999,False,1
+Simulated Annealing,C057,Chemical Principles,CHE101,CHEM,1,120,P035,Patrick Rodriguez,Associate Professor,Biomedical Engineering,100.0,20.6,4.0,2.0,2.0,8.4,False,1
+Simulated Annealing,C058,Process Design,CHE201,CHEM,2,95,P058,Michelle Green,Professor,Electrical Engineering,100.0,18.5,3.0,2.0,2.0,6.8999999999999995,False,1
+Simulated Annealing,C059,Reaction Engineering,CHE301,CHEM,3,75,P061,Larry Alvarez,Lecturer,Mechanical Engineering,100.0,15.666666666666666,3.0,1.0,1.6666666666666667,7.5,False,1
+Simulated Annealing,C060,Biomechanics,BME101,BME,2,80,P029,Jonathan Thomas,Assistant Professor,Electrical Engineering,100.0,14.466666666666667,3.0,1.0,1.6666666666666667,6.6000000000000005,False,1
+Simulated Annealing,C061,Biomaterials,BME201,BME,3,60,P014,Sharon Turner,Lecturer,Communication Studies,100.0,15.266666666666666,3.0,1.0,1.6666666666666667,7.199999999999999,False,1
+Simulated Annealing,C062,Medical Devices,BME301,BME,4,50,P018,Carol Lee,Lecturer,Geology,100.0,20.0,3.0,2.0,2.0,7.800000000000001,False,1
+Simulated Annealing,C063,General Physics I,PHYS101,PHYS,1,180,P086,Jonathan Wright,Assistant Professor,Physics & Astronomy,100.0,20.333333333333332,4.0,2.0,2.3333333333333335,8.0,False,1
+Simulated Annealing,C064,General Physics II,PHYS102,PHYS,1,160,P020,Emily Scott,Professor,Psychology,100.0,20.6,4.0,2.0,2.0,8.4,False,1
+Simulated Annealing,C065,Modern Physics,PHYS201,PHYS,2,120,P074,Barbara Miller,Associate Professor,Physics & Astronomy,100.0,14.866666666666665,3.0,1.0,1.6666666666666667,6.8999999999999995,False,1
+Simulated Annealing,C066,General Chemistry,CHEM101,CHEM,1,200,P028,Sandra Collins,Professor,Geology,100.0,20.333333333333332,4.0,2.0,2.3333333333333335,8.0,False,1
+Simulated Annealing,C067,Organic Chemistry,CHEM201,CHEM,2,150,P040,Edward Scott,Professor,Biology,100.0,18.0,3.0,2.0,2.0,6.6000000000000005,False,1
+Simulated Annealing,C068,Introduction to Biology,BIO101,BIO,1,190,P083,Henry Johnson,Professor,Medicine,100.0,19.4,4.0,2.0,2.0,7.6,False,1
+Simulated Annealing,C069,Cell Biology,BIO201,BIO,2,130,P060,William Ramirez,Professor,Medicine,100.0,17.166666666666668,3.0,2.0,1.6666666666666667,6.300000000000001,False,1
+Simulated Annealing,C070,Introduction to Psychology,PSYCH101,PSYCH,1,220,P019,Betty Diaz,Professor,Psychology,100.0,9.466666666666667,3.0,0.0,1.6666666666666667,4.800000000000001,False,1
+Simulated Annealing,C071,Research Methods,PSYCH201,PSYCH,2,140,P015,Mark Edwards,Assistant Professor,Biology,100.0,14.0,3.0,1.0,2.0,6.0,False,1
+Simulated Annealing,C072,Introduction to Sociology,SOC101,SOC,1,180,P026,Kimberly King,Lecturer,Sociology,100.0,9.433333333333334,3.0,0.0,1.3333333333333333,5.1,False,1
+Simulated Annealing,C073,Social Theory,SOC201,SOC,2,120,P085,Joseph Mendoza,Professor,Sociology,100.0,10.966666666666667,3.0,0.0,1.6666666666666667,6.300000000000001,False,1
+Simulated Annealing,C074,Composition,ENG101,ENG,1,250,P062,Kenneth Ramirez,Professor,Political Science,100.0,10.4,3.0,0.0,2.0,5.4,False,1
+Simulated Annealing,C075,Literature Survey,ENG201,ENG,2,160,P030,Edward Hernandez,Professor,Computer Science & Engineering,100.0,10.666666666666666,3.0,0.0,1.6666666666666667,6.0,False,1
+Simulated Annealing,C076,World History,HIST101,HIST,1,170,P047,Frank Martinez,Lecturer,History,100.0,9.433333333333334,3.0,0.0,1.3333333333333333,5.1,False,1
+Simulated Annealing,C077,American History,HIST201,HIST,2,140,P033,Deborah Campbell,Assistant Professor,History,100.0,10.366666666666665,3.0,0.0,1.6666666666666667,5.699999999999999,False,1
+Simulated Annealing,C078,Introduction to Philosophy,PHIL101,PHIL,1,130,P075,Henry Anderson,Assistant Professor,Philosophy,100.0,9.733333333333334,3.0,0.0,1.3333333333333333,5.4,False,1
+Simulated Annealing,C079,Principles of Economics,ECON101,ECON,1,200,P056,Emily Davis,Professor,Public Health,100.0,10.066666666666666,3.0,0.0,1.6666666666666667,5.4,False,1
+Simulated Annealing,C080,Microeconomics,ECON201,ECON,2,150,P052,Edward Wright,Lecturer,Geology,100.0,10.666666666666666,3.0,0.0,1.6666666666666667,6.0,False,1

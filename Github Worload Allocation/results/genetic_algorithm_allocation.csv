@@ -1,0 +1,107 @@
+Algorithm,Course_ID,Course_Name,Course_Code,Department,Difficulty_Level,Num_Students,Professor_ID,Professor_Name,Professor_Title,Professor_Department,Share_Percentage,Workload_Hours,Lecture_Hours,Lab_Hours,Assessment_Hours,Prep_Hours,Team_Teaching,Num_Professors
+Genetic Algorithm,C001,Introduction to Programming,CS101,COMP,1,120,P017,Michelle Smith,Associate Professor,Public Health,50.0,7.25,1.5,1.0,1.0,2.25,True,2
+Genetic Algorithm,C001,Introduction to Programming,CS101,COMP,1,120,P022,Carol Baker,Assistant Professor,History,50.0,7.25,1.5,1.0,1.0,2.25,True,2
+Genetic Algorithm,C002,Data Structures,CS102,COMP,2,100,P049,Nancy Morgan,Lecturer,Geology,50.0,7.833333333333333,1.5,1.0,0.8333333333333334,2.7,True,2
+Genetic Algorithm,C002,Data Structures,CS102,COMP,2,100,P043,Charles Mitchell,Associate Professor,Philosophy,50.0,7.833333333333333,1.5,1.0,0.8333333333333334,2.7,True,2
+Genetic Algorithm,C003,Algorithms,CS201,COMP,2,80,P076,Karen Watson,Assistant Professor,Computer Science & Engineering,50.0,6.666666666666667,1.5,0.5,0.6666666666666666,3.0,True,2
+Genetic Algorithm,C003,Algorithms,CS201,COMP,2,80,P062,Kenneth Ramirez,Professor,Political Science,50.0,6.666666666666667,1.5,0.5,0.6666666666666666,3.0,True,2
+Genetic Algorithm,C004,Computer Organization,CS202,COMP,2,90,P068,Jonathan King,Professor,Civil Engineering,50.0,7.583333333333333,1.5,1.0,0.8333333333333334,2.55,True,2
+Genetic Algorithm,C004,Computer Organization,CS202,COMP,2,90,P089,Sharon Parker,Professor,Biology,50.0,7.583333333333333,1.5,1.0,0.8333333333333334,2.55,True,2
+Genetic Algorithm,C005,Operating Systems,CS301,COMP,3,70,P054,Michelle Lewis,Associate Professor,Communication Studies,50.0,8.666666666666666,1.5,1.0,0.6666666666666666,3.3000000000000003,True,2
+Genetic Algorithm,C005,Operating Systems,CS301,COMP,3,70,P078,Jason Kim,Professor,Biochemistry,50.0,8.666666666666666,1.5,1.0,0.6666666666666666,3.3000000000000003,True,2
+Genetic Algorithm,C006,Database Systems,CS302,COMP,3,85,P001,Dorothy Anderson,Assistant Professor,Computer Science & Engineering,50.0,8.083333333333334,1.5,1.0,0.8333333333333334,2.8499999999999996,True,2
+Genetic Algorithm,C006,Database Systems,CS302,COMP,3,85,P053,Dorothy Ruiz,Associate Professor,Biochemistry,50.0,8.083333333333334,1.5,1.0,0.8333333333333334,2.8499999999999996,True,2
+Genetic Algorithm,C007,Software Engineering,CS401,COMP,4,60,P081,Helen Ortiz,Professor,Computer Science & Engineering,33.333333333333336,6.500000000000001,1.0,0.6666666666666667,0.6666666666666667,2.5000000000000004,True,3
+Genetic Algorithm,C007,Software Engineering,CS401,COMP,4,60,P024,Edward Gonzalez,Lecturer,Philosophy,33.333333333333336,6.500000000000001,1.0,0.6666666666666667,0.6666666666666667,2.5000000000000004,True,3
+Genetic Algorithm,C007,Software Engineering,CS401,COMP,4,60,P057,Sandra Jones,Associate Professor,Philosophy,33.333333333333336,6.500000000000001,1.0,0.6666666666666667,0.6666666666666667,2.5000000000000004,True,3
+Genetic Algorithm,C008,Computer Networks,CS402,COMP,4,65,P030,Edward Hernandez,Professor,Computer Science & Engineering,50.0,6.866666666666667,1.5,0.5,0.6666666666666666,3.1500000000000004,True,2
+Genetic Algorithm,C008,Computer Networks,CS402,COMP,4,65,P079,William Roberts,Lecturer,Sociology,50.0,6.866666666666667,1.5,0.5,0.6666666666666666,3.1500000000000004,True,2
+Genetic Algorithm,C009,Artificial Intelligence,CS501,COMP,5,50,P100,Sharon Ortiz,Assistant Professor,English Literature,50.0,8.266666666666666,1.5,0.5,0.6666666666666666,4.199999999999999,True,2
+Genetic Algorithm,C009,Artificial Intelligence,CS501,COMP,5,50,P060,William Ramirez,Professor,Medicine,50.0,8.266666666666666,1.5,0.5,0.6666666666666666,4.199999999999999,True,2
+Genetic Algorithm,C010,Machine Learning,CS502,COMP,5,55,P045,Nancy Wright,Associate Professor,Computer Science & Engineering,50.0,8.033333333333333,1.5,0.5,0.8333333333333334,3.9000000000000004,True,2
+Genetic Algorithm,C010,Machine Learning,CS502,COMP,5,55,P036,Jennifer James,Associate Professor,Chemistry,50.0,8.033333333333333,1.5,0.5,0.8333333333333334,3.9000000000000004,True,2
+Genetic Algorithm,C011,Advanced Algorithms,CS601,COMP,5,40,P002,Patricia Scott,Assistant Professor,Geology,100.0,13.333333333333334,3.0,0.0,1.3333333333333333,9.0,False,1
+Genetic Algorithm,C012,Computer Graphics,CS602,COMP,5,45,P021,Karen Ramirez,Assistant Professor,Political Science,50.0,7.466666666666667,1.5,0.5,0.6666666666666666,3.5999999999999996,True,2
+Genetic Algorithm,C012,Computer Graphics,CS602,COMP,5,45,P032,Adam Watson,Associate Professor,Pharmacy,50.0,7.466666666666667,1.5,0.5,0.6666666666666666,3.5999999999999996,True,2
+Genetic Algorithm,C013,Research Methods,CS701,COMP,5,30,P052,Edward Wright,Lecturer,Geology,100.0,11.5,2.0,1.0,1.0,5.0,False,1
+Genetic Algorithm,C014,Thesis Project,CS702,COMP,5,25,P092,Alexander King,Professor,Environmental Science,100.0,7.166666666666666,1.0,0.0,2.6666666666666665,3.5,False,1
+Genetic Algorithm,C015,Advanced Topics,CS801,COMP,5,20,P098,Betty Martin,Associate Professor,Biochemistry,100.0,13.933333333333335,3.0,0.0,1.3333333333333333,9.600000000000001,False,1
+Genetic Algorithm,C016,Seminar,CS802,COMP,5,15,P091,James Castillo,Associate Professor,Pharmacy,100.0,8.6,2.0,0.0,1.0,5.6,False,1
+Genetic Algorithm,C017,Independent Study,CS803,COMP,5,10,P030,Edward Hernandez,Professor,Computer Science & Engineering,100.0,6.0,1.0,0.0,2.0,3.0,False,1
+Genetic Algorithm,C018,Special Topics,CS804,COMP,4,35,P056,Emily Davis,Professor,Public Health,50.0,7.266666666666667,1.5,0.5,0.6666666666666666,3.4499999999999997,True,2
+Genetic Algorithm,C018,Special Topics,CS804,COMP,4,35,P080,Edward Kim,Professor,Nursing,50.0,7.266666666666667,1.5,0.5,0.6666666666666666,3.4499999999999997,True,2
+Genetic Algorithm,C019,Capstone Project,CS805,COMP,4,45,P004,Sarah Wilson,Associate Professor,Chemistry,33.333333333333336,5.711111111111111,0.6666666666666667,0.6666666666666667,0.7777777777777779,1.8000000000000003,True,3
+Genetic Algorithm,C019,Capstone Project,CS805,COMP,4,45,P042,Adam Campbell,Assistant Professor,Economics,33.333333333333336,5.711111111111111,0.6666666666666667,0.6666666666666667,0.7777777777777779,1.8000000000000003,True,3
+Genetic Algorithm,C019,Capstone Project,CS805,COMP,4,45,P095,Deborah Watson,Professor,Biology,33.333333333333336,5.711111111111111,0.6666666666666667,0.6666666666666667,0.7777777777777779,1.8000000000000003,True,3
+Genetic Algorithm,C020,Internship,CS806,COMP,4,60,P072,Mark Moore,Assistant Professor,Geology,50.0,10.333333333333334,0.0,4.0,0.3333333333333333,0.0,True,2
+Genetic Algorithm,C020,Internship,CS806,COMP,4,60,P085,Joseph Mendoza,Professor,Sociology,50.0,10.333333333333334,0.0,4.0,0.3333333333333333,0.0,True,2
+Genetic Algorithm,C021,Calculus I,MATH101,MATH,1,200,P007,Jason Jones,Assistant Professor,Communication Studies,33.333333333333336,5.555555555555556,1.3333333333333335,0.33333333333333337,0.888888888888889,2.4000000000000004,True,3
+Genetic Algorithm,C021,Calculus I,MATH101,MATH,1,200,P070,Jason Howard,Lecturer,Philosophy,33.333333333333336,5.555555555555556,1.3333333333333335,0.33333333333333337,0.888888888888889,2.4000000000000004,True,3
+Genetic Algorithm,C021,Calculus I,MATH101,MATH,1,200,P087,Jerry Chavez,Associate Professor,History,33.333333333333336,5.555555555555556,1.3333333333333335,0.33333333333333337,0.888888888888889,2.4000000000000004,True,3
+Genetic Algorithm,C022,Calculus II,MATH102,MATH,1,180,P014,Sharon Turner,Lecturer,Communication Studies,33.333333333333336,5.611111111111112,1.3333333333333335,0.33333333333333337,0.7777777777777779,2.5333333333333337,True,3
+Genetic Algorithm,C022,Calculus II,MATH102,MATH,1,180,P063,Lisa Murphy,Associate Professor,Medicine,33.333333333333336,5.611111111111112,1.3333333333333335,0.33333333333333337,0.7777777777777779,2.5333333333333337,True,3
+Genetic Algorithm,C022,Calculus II,MATH102,MATH,1,180,P088,Emily Anderson,Assistant Professor,Biochemistry,33.333333333333336,5.611111111111112,1.3333333333333335,0.33333333333333337,0.7777777777777779,2.5333333333333337,True,3
+Genetic Algorithm,C023,Linear Algebra,MATH201,MATH,2,150,P064,Ronald Chavez,Associate Professor,Economics,50.0,6.833333333333333,1.5,0.5,0.8333333333333334,3.0,True,2
+Genetic Algorithm,C023,Linear Algebra,MATH201,MATH,2,150,P093,Nicholas Thompson,Assistant Professor,Communication Studies,50.0,6.833333333333333,1.5,0.5,0.8333333333333334,3.0,True,2
+Genetic Algorithm,C024,Differential Equations,MATH202,MATH,2,120,P041,Ryan Brooks,Associate Professor,Geology,50.0,7.4,1.5,0.5,1.0,3.3000000000000003,True,2
+Genetic Algorithm,C024,Differential Equations,MATH202,MATH,2,120,P023,Susan Lopez,Lecturer,Biochemistry,50.0,7.4,1.5,0.5,1.0,3.3000000000000003,True,2
+Genetic Algorithm,C025,Advanced Calculus,MATH301,MATH,3,80,P031,Stephen Nguyen,Assistant Professor,Environmental Science,50.0,6.083333333333333,1.5,0.0,0.8333333333333334,3.75,True,2
+Genetic Algorithm,C025,Advanced Calculus,MATH301,MATH,3,80,P073,Carol Murphy,Assistant Professor,Mathematics & Statistics,50.0,6.083333333333333,1.5,0.0,0.8333333333333334,3.75,True,2
+Genetic Algorithm,C026,Abstract Algebra,MATH302,MATH,3,60,P044,Kimberly Clark,Professor,Mathematics & Statistics,100.0,12.733333333333333,3.0,0.0,1.3333333333333333,8.399999999999999,False,1
+Genetic Algorithm,C027,Real Analysis,MATH401,MATH,4,50,P039,Henry Gonzalez,Associate Professor,Mathematics & Statistics,100.0,13.666666666666666,3.0,0.0,1.6666666666666667,9.0,False,1
+Genetic Algorithm,C028,Complex Analysis,MATH402,MATH,4,45,P003,Donna Lewis,Associate Professor,Electrical Engineering,100.0,13.033333333333333,3.0,0.0,1.3333333333333333,8.7,False,1
+Genetic Algorithm,C029,Numerical Analysis,MATH501,MATH,5,40,P090,Charles Collins,Professor,Nursing,50.0,8.233333333333334,1.5,0.5,0.8333333333333334,4.050000000000001,True,2
+Genetic Algorithm,C029,Numerical Analysis,MATH501,MATH,5,40,P016,Emily Scott,Associate Professor,History,50.0,8.233333333333334,1.5,0.5,0.8333333333333334,4.050000000000001,True,2
+Genetic Algorithm,C030,Mathematical Modeling,MATH502,MATH,5,35,P094,Nicholas Wilson,Professor,Computer Science & Engineering,50.0,8.6,1.5,0.5,1.0,4.199999999999999,True,2
+Genetic Algorithm,C030,Mathematical Modeling,MATH502,MATH,5,35,P055,Karen Adams,Professor,Chemistry,50.0,8.6,1.5,0.5,1.0,4.199999999999999,True,2
+Genetic Algorithm,C031,Topology,MATH601,MATH,5,30,P005,Raymond Cooper,Assistant Professor,Biology,100.0,13.933333333333335,3.0,0.0,1.3333333333333333,9.600000000000001,False,1
+Genetic Algorithm,C032,Differential Geometry,MATH602,MATH,5,25,P006,Barbara Ramos,Assistant Professor,History,100.0,13.633333333333335,3.0,0.0,1.3333333333333333,9.3,False,1
+Genetic Algorithm,C033,Research Seminar,MATH701,MATH,5,20,P044,Kimberly Clark,Professor,Mathematics & Statistics,100.0,8.6,2.0,0.0,1.0,5.6,False,1
+Genetic Algorithm,C034,Thesis,MATH702,MATH,5,15,P002,Patricia Scott,Assistant Professor,Geology,100.0,7.166666666666666,1.0,0.0,2.6666666666666665,3.5,False,1
+Genetic Algorithm,C035,Independent Study,MATH703,MATH,5,10,P039,Henry Gonzalez,Associate Professor,Mathematics & Statistics,100.0,6.0,1.0,0.0,2.0,3.0,False,1
+Genetic Algorithm,C036,Introduction to Business,BUS101,BUS,1,180,P006,Barbara Ramos,Assistant Professor,History,50.0,4.583333333333333,1.5,0.0,0.8333333333333334,2.25,True,2
+Genetic Algorithm,C036,Introduction to Business,BUS101,BUS,1,180,P048,Kimberly Brooks,Associate Professor,Philosophy,50.0,4.583333333333333,1.5,0.0,0.8333333333333334,2.25,True,2
+Genetic Algorithm,C037,Principles of Management,BUS201,BUS,2,150,P025,Kimberly Hall,Assistant Professor,Pharmacy,100.0,9.733333333333334,3.0,0.0,1.3333333333333333,5.4,False,1
+Genetic Algorithm,C038,Financial Accounting,BUS202,BUS,2,160,P037,Sandra Nguyen,Associate Professor,Geology,100.0,14.0,3.0,1.0,2.0,6.0,False,1
+Genetic Algorithm,C039,Marketing Principles,BUS301,BUS,3,140,P097,Nicholas Cox,Lecturer,Biochemistry,100.0,10.366666666666665,3.0,0.0,1.6666666666666667,5.699999999999999,False,1
+Genetic Algorithm,C040,Corporate Finance,BUS302,BUS,3,120,P051,Charles Reyes,Assistant Professor,Biochemistry,100.0,11.600000000000001,3.0,0.0,2.0,6.6000000000000005,False,1
+Genetic Algorithm,C041,Operations Management,BUS401,BUS,4,100,P018,Carol Lee,Lecturer,Geology,100.0,14.866666666666665,3.0,1.0,1.6666666666666667,6.8999999999999995,False,1
+Genetic Algorithm,C042,Strategic Management,BUS402,BUS,4,90,P038,David Robinson,Professor,Mathematics & Statistics,100.0,12.2,3.0,0.0,2.0,7.199999999999999,False,1
+Genetic Algorithm,C043,Business Analytics,BUS501,BUS,5,70,P034,Laura Harris,Associate Professor,Computer Science & Engineering,100.0,16.066666666666666,3.0,1.0,1.6666666666666667,7.800000000000001,False,1
+Genetic Algorithm,C044,Supply Chain Management,BUS502,BUS,5,65,P046,Betty Mendoza,Assistant Professor,Public Health,100.0,11.233333333333333,3.0,0.0,1.3333333333333333,6.8999999999999995,False,1
+Genetic Algorithm,C045,Research Methods,BUS601,BUS,5,45,P008,Patricia Lopez,Professor,History,100.0,11.833333333333334,2.0,1.0,1.3333333333333333,5.0,False,1
+Genetic Algorithm,C046,Thesis Project,BUS602,BUS,5,35,P008,Patricia Lopez,Professor,History,100.0,6.866666666666667,1.0,0.0,2.6666666666666665,3.2,False,1
+Genetic Algorithm,C047,Capstone,BUS603,BUS,4,50,P009,Helen Robinson,Professor,Philosophy,100.0,13.433333333333335,2.0,1.0,2.3333333333333335,5.4,False,1
+Genetic Algorithm,C048,Engineering Mechanics,ME101,MECH,1,150,P035,Patrick Rodriguez,Associate Professor,Biomedical Engineering,100.0,20.0,4.0,2.0,2.0,8.0,False,1
+Genetic Algorithm,C049,Thermodynamics,ME201,MECH,2,120,P084,Karen Castillo,Assistant Professor,Electrical Engineering,100.0,14.466666666666667,3.0,1.0,1.6666666666666667,6.6000000000000005,False,1
+Genetic Algorithm,C050,Machine Design,ME301,MECH,3,90,P027,Michelle Garcia,Professor,Chemical Engineering,100.0,19.0,3.0,2.0,2.0,7.199999999999999,False,1
+Genetic Algorithm,C051,Circuit Analysis,EE101,ELEC,1,140,P050,Sandra Young,Associate Professor,Chemical Engineering,100.0,20.6,4.0,2.0,2.0,8.4,False,1
+Genetic Algorithm,C052,Electronics,EE201,ELEC,2,110,P010,Nicholas Cox,Lecturer,Civil Engineering,100.0,18.166666666666668,3.0,2.0,1.6666666666666667,6.8999999999999995,False,1
+Genetic Algorithm,C053,Control Systems,EE301,ELEC,3,80,P059,Lisa Wright,Lecturer,Biomedical Engineering,100.0,15.666666666666666,3.0,1.0,1.6666666666666667,7.5,False,1
+Genetic Algorithm,C054,Statics,CE101,CIVIL,1,130,P067,Donna Bailey,Associate Professor,Biomedical Engineering,100.0,16.666666666666668,4.0,1.0,1.6666666666666667,8.0,False,1
+Genetic Algorithm,C055,Structural Analysis,CE201,CIVIL,2,100,P058,Michelle Green,Professor,Electrical Engineering,100.0,14.466666666666667,3.0,1.0,1.6666666666666667,6.6000000000000005,False,1
+Genetic Algorithm,C056,Design of Structures,CE301,CIVIL,3,85,P061,Larry Alvarez,Lecturer,Mechanical Engineering,100.0,19.0,3.0,2.0,2.0,7.199999999999999,False,1
+Genetic Algorithm,C057,Chemical Principles,CHE101,CHEM,1,120,P065,Ryan Jackson,Associate Professor,Chemical Engineering,100.0,20.6,4.0,2.0,2.0,8.4,False,1
+Genetic Algorithm,C058,Process Design,CHE201,CHEM,2,95,P029,Jonathan Thomas,Assistant Professor,Electrical Engineering,100.0,18.5,3.0,2.0,2.0,6.8999999999999995,False,1
+Genetic Algorithm,C059,Reaction Engineering,CHE301,CHEM,3,75,P077,Charles Mendoza,Lecturer,Electrical Engineering,100.0,15.666666666666666,3.0,1.0,1.6666666666666667,7.5,False,1
+Genetic Algorithm,C060,Biomechanics,BME101,BME,2,80,P011,Patricia Bailey,Associate Professor,Mechanical Engineering,100.0,14.466666666666667,3.0,1.0,1.6666666666666667,6.6000000000000005,False,1
+Genetic Algorithm,C061,Biomaterials,BME201,BME,3,60,P012,Betty Alvarez,Lecturer,Public Health,100.0,15.266666666666666,3.0,1.0,1.6666666666666667,7.199999999999999,False,1
+Genetic Algorithm,C062,Medical Devices,BME301,BME,4,50,P020,Emily Scott,Professor,Psychology,100.0,20.0,3.0,2.0,2.0,7.800000000000001,False,1
+Genetic Algorithm,C063,General Physics I,PHYS101,PHYS,1,180,P086,Jonathan Wright,Assistant Professor,Physics & Astronomy,100.0,20.333333333333332,4.0,2.0,2.3333333333333335,8.0,False,1
+Genetic Algorithm,C064,General Physics II,PHYS102,PHYS,1,160,P028,Sandra Collins,Professor,Geology,100.0,20.6,4.0,2.0,2.0,8.4,False,1
+Genetic Algorithm,C065,Modern Physics,PHYS201,PHYS,2,120,P074,Barbara Miller,Associate Professor,Physics & Astronomy,100.0,14.866666666666665,3.0,1.0,1.6666666666666667,6.8999999999999995,False,1
+Genetic Algorithm,C066,General Chemistry,CHEM101,CHEM,1,200,P033,Deborah Campbell,Assistant Professor,History,100.0,20.333333333333332,4.0,2.0,2.3333333333333335,8.0,False,1
+Genetic Algorithm,C067,Organic Chemistry,CHEM201,CHEM,2,150,P040,Edward Scott,Professor,Biology,100.0,18.0,3.0,2.0,2.0,6.6000000000000005,False,1
+Genetic Algorithm,C068,Introduction to Biology,BIO101,BIO,1,190,P083,Henry Johnson,Professor,Medicine,100.0,19.4,4.0,2.0,2.0,7.6,False,1
+Genetic Algorithm,C069,Cell Biology,BIO201,BIO,2,130,P015,Mark Edwards,Assistant Professor,Biology,100.0,17.166666666666668,3.0,2.0,1.6666666666666667,6.300000000000001,False,1
+Genetic Algorithm,C070,Introduction to Psychology,PSYCH101,PSYCH,1,220,P019,Betty Diaz,Professor,Psychology,100.0,9.466666666666667,3.0,0.0,1.6666666666666667,4.800000000000001,False,1
+Genetic Algorithm,C071,Research Methods,PSYCH201,PSYCH,2,140,P013,Lisa Hughes,Lecturer,Environmental Science,100.0,14.0,3.0,1.0,2.0,6.0,False,1
+Genetic Algorithm,C072,Introduction to Sociology,SOC101,SOC,1,180,P026,Kimberly King,Lecturer,Sociology,100.0,9.433333333333334,3.0,0.0,1.3333333333333333,5.1,False,1
+Genetic Algorithm,C073,Social Theory,SOC201,SOC,2,120,P082,Steven Peterson,Professor,Sociology,100.0,10.966666666666667,3.0,0.0,1.6666666666666667,6.300000000000001,False,1
+Genetic Algorithm,C074,Composition,ENG101,ENG,1,250,P096,Joshua Brooks,Professor,Nursing,100.0,10.4,3.0,0.0,2.0,5.4,False,1
+Genetic Algorithm,C075,Literature Survey,ENG201,ENG,2,160,P071,Lisa Campbell,Professor,Public Health,100.0,10.666666666666666,3.0,0.0,1.6666666666666667,6.0,False,1
+Genetic Algorithm,C076,World History,HIST101,HIST,1,170,P069,Donna Howard,Associate Professor,History,100.0,9.433333333333334,3.0,0.0,1.3333333333333333,5.1,False,1
+Genetic Algorithm,C077,American History,HIST201,HIST,2,140,P047,Frank Martinez,Lecturer,History,100.0,10.366666666666665,3.0,0.0,1.6666666666666667,5.699999999999999,False,1
+Genetic Algorithm,C078,Introduction to Philosophy,PHIL101,PHIL,1,130,P075,Henry Anderson,Assistant Professor,Philosophy,100.0,9.733333333333334,3.0,0.0,1.3333333333333333,5.4,False,1
+Genetic Algorithm,C079,Principles of Economics,ECON101,ECON,1,200,P066,Carol Moore,Assistant Professor,Environmental Science,100.0,10.066666666666666,3.0,0.0,1.6666666666666667,5.4,False,1
+Genetic Algorithm,C080,Microeconomics,ECON201,ECON,2,150,P099,Deborah Lee,Associate Professor,Communication Studies,100.0,10.666666666666666,3.0,0.0,1.6666666666666667,6.0,False,1
